@@ -10,5 +10,8 @@ This resume was done using HTML and CSS to show case everything that was learnt 
 
 -CSS Logo Animation
 This logo animation was on of the challenges I had to complete.It uses a LinkedIn Logo and purely CSS and HTML to make it animate.
-The link to the repository is: 
+The link to the repository is: https://github.com/Paskay18/css-animation
+
+-Javascript App
+This javascript app was a final challenge in the Interactive Web Apps and I had to fix the code that was given according to the user specifications that were given. The challenge lies in the repository IWA and it is title IWA19, it scored 83%. The other folders were challenges that gave a better understanding of Javascript and its fundementals. The link to the repository is: 
 
