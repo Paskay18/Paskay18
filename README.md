@@ -8,5 +8,7 @@ The projects I have currently been working on are:
 -A Digital Resume
 This resume was done using HTML and CSS to show case everything that was learnt duirng Introduction to Web development. This was done as final project and it scored 97%.  The link to the repository is : https://github.com/Paskay18/interactive-web-apps
 
-
+-CSS Logo Animation
+This logo animation was on of the challenges I had to complete.It uses a LinkedIn Logo and purely CSS and HTML to make it animate.
+The link to the repository is: 
 
