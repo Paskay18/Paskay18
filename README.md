@@ -7,8 +7,12 @@ Hello there, my name is Mmapaseka Amogelang Malebo. I am a hardworking individua
 [Gmail](https://mail.google.com/mail/u/0/#inbox)<br>
 [LinkedIn](https://www.linkedin.com/in/mmapaseka-malebo-981ba817b/)
 
+#### Projects I have worked on
+-Digital Resume
+-Fixing a book app
+
 
 The projects I have currently been working on are:
 
--A Chess Game challenge where I am collaborating with 3 other junior developers in training to demonstrate everything I will be working on in Dynamic Web Apps module.
+-A Chess Game challenge where I am collaborating with 3 other junior developers in training to demonstrate everything that we will be working on in Dynamic Web Apps module.
 
