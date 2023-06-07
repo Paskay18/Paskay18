@@ -10,5 +10,5 @@ Hello there, my name is Mmapaseka Amogelang Malebo. I am a hardworking individua
 
 The projects I have currently been working on are:
 
--A Chess Game challenge where I am colleborating with 3 other junior developers in training to demonstrate everything I will be working on in Dynamic Web Apps module.
+-A Chess Game challenge where I am collaborating with 3 other junior developers in training to demonstrate everything I will be working on in Dynamic Web Apps module.
 
