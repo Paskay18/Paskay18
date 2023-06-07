@@ -10,14 +10,5 @@ Hello there, my name is Mmapaseka Amogelang Malebo. I am a hardworking individua
 
 The projects I have currently been working on are:
 
--A Digital Resume
-This resume was done using HTML and CSS to show case everything that was learnt duirng Introduction to Web development. This was done as final project and it scored 97%.  The link to the repository is : https://github.com/Paskay18/interactive-web-apps
-
--CSS Logo Animation
-This logo animation was on of the challenges I had to complete.It uses a LinkedIn Logo and purely CSS and HTML to make it animate.
-The link to the repository is: https://github.com/Paskay18/css-animation
-
--Javascript App
-This javascript app was a final challenge in the Interactive Web Apps and I had to fix the code that was given according to the user specifications that were given. The challenge lies in the repository IWA and it is title IWA19, it scored 83%. The other folders were challenges that gave a better understanding of Javascript and its fundementals. The link to the repository is: 
-https://github.com/Paskay18/interactive-web-apps
+-A Chess Game challenge where I am colleborating with 3 other junior developers in training to demonstrate everything I will be working on in Dynamic Web Apps module.
 
