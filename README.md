@@ -8,7 +8,7 @@ Hello there, my name is Mmapaseka Amogelang Malebo. I am a hardworking individua
 [LinkedIn](https://www.linkedin.com/in/mmapaseka-malebo-981ba817b/)
 
 #### Projects I have worked on
--Digital Resume
+-Digital Resume<br>
 -Fixing a book app
 
 
